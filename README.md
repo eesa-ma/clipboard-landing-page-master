@@ -27,7 +27,8 @@ Users should be able to:
 
 ### Screenshot
 
-./images/preview.png
+![Screenshot](./images/preview.png)
+
 
 ### Links
 
